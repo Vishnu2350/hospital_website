@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card:hover{
+    background-color: antiquewhite;
+}.background{
+    background-color: #3b82f6;
+    
+    
+}
+.background:hover{
+    background-color: black;
+    
+    
+}
+.fa-brands{
+    font-size: 32px;
+    margin:10px;
+    color: white;
+}
+.fa-whatsapp{
+    color:	#25D366
+}
+.fa-instagram{
+    color: #E4405F;
+}
+.fa-facebook{
+    color: #3b82f6;
+}
+footer h2{
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.gradient2{
+    background-color: #FFDEE9;
+background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+}
